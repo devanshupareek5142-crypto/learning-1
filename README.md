@@ -1,3 +1,4 @@
-# learning-1
-learning git from basics
-authpr - Devanshu Pareek
+# Learning-1
+leaning daily , consistently and creating repositeries.
+<br>
+Author - Devanshu Pareek
